@@ -31,8 +31,8 @@ class Datatypes
         bool isChecked1 = false;
         Console.WriteLine(isChecked1);   // false;
 
-        // X element --> from that element i am receing the ouput ---> output is the boolean . so then 
-        // what could be element ???  checkbox
+        // X element --> from that element i am receing the ouput ---> output is the boolean . so then the element is checkbox
+
 
 
         char charValue = 'g';
