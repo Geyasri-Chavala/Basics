@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LoopingMecanisams</StartupObject>
+    <StartupObject>Methods</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="8.Operators.cs" />
     <Compile Include="9.ConditionalStatements.cs" />
     <Compile Include="10.LoopingMechanisms.cs" />
+    <Compile Include="11.Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="4.StringExamples.cs" />
     <Compile Include="3.VarAndDynamic.cs" />
